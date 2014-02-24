@@ -57,7 +57,7 @@
       <File>C4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Canterbury Television">
+      <Item Name="CanterburyTV">
         <Satellite />
       </Item>
       <File>Canterbury Television.png</File>
@@ -73,12 +73,6 @@
         <Satellite />
       </Item>
       <File>CCTV News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Channel 9">
-        <Satellite />
-      </Item>
-      <File>Channel 9.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel North">
@@ -213,7 +207,7 @@
       <File>Disney Junior.png</File>
     </Channel>
     <Channel>
-      <Item Name="Dunedin Television">
+      <Item Name="DunedinTV">
         <Satellite />
       </Item>
       <File>Dunedin Television.png</File>
@@ -345,7 +339,49 @@
       <File>Living.png</File>
     </Channel>
     <Channel>
-      <Item Name="Mainland Television">
+      <Item Name="Mainland 1">
+        <Satellite />
+      </Item>
+      <File>Mainland 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 2">
+        <Satellite />
+      </Item>
+      <File>Mainland 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 3">
+        <Satellite />
+      </Item>
+      <File>Mainland 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 4">
+        <Satellite />
+      </Item>
+      <File>Mainland 4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 5">
+        <Satellite />
+      </Item>
+      <File>Mainland 5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 6">
+        <Satellite />
+      </Item>
+      <File>Mainland 6.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 7">
+        <Satellite />
+      </Item>
+      <File>Mainland 7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mainland 8">
         <Satellite />
       </Item>
       <File>Mainland Television.png</File>
@@ -399,6 +435,9 @@
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
+      <Item Name="Parliament">
+        <Satellite />
+      </Item>
       <Item Name="Parliament TV">
         <Satellite />
       </Item>
@@ -448,6 +487,9 @@
     </Channel>
     <Channel>
       <Item Name="Shine TV">
+        <Satellite />
+      </Item>
+      <Item Name="ShineTV">
         <Satellite />
       </Item>
       <File>Shine TV.png</File>
@@ -567,13 +609,16 @@
       <Item Name="Sky Sport 5">
         <Satellite />
       </Item>
+      <File>Sky Sport 5.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sport 6 HD">
         <Satellite />
       </Item>
       <Item Name="Sky Sport 6">
         <Satellite />
       </Item>
-      <File>Sky Sport.png</File>
+      <File>Sky Sport 6.png</File>
     </Channel>
     <Channel>
       <Item Name="Preview">
@@ -639,6 +684,9 @@
       <Item Name="Television Hawkes Bay">
         <Satellite />
       </Item>
+      <Item Name="TVHB">
+        <Satellite />
+      </Item>
       <File>Television Hawkes Bay.png</File>
     </Channel>
     <Channel>
@@ -649,6 +697,9 @@
     </Channel>
     <Channel>
       <Item Name="Shopping Channel">
+        <Satellite />
+      </Item>
+      <Item Name="The Shopping Channel">
         <Satellite />
       </Item>
       <File>The Shopping Channel.png</File>
@@ -693,6 +744,9 @@
       <File>TV2 Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV 2">
+        <Satellite />
+      </Item>
       <Item Name="TV2 HD">
         <Satellite />
       </Item>
@@ -724,6 +778,12 @@
         <Satellite />
       </Item>
       <File>TV33.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV9">
+        <Satellite />
+      </Item>
+      <File>TV9.png</File>
     </Channel>
     <Channel>
       <Item Name="tvCentral">
@@ -771,6 +831,9 @@
       <File>Weather Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Yes Shop">
+        <Satellite />
+      </Item>
       <Item Name="YesShop">
         <Satellite />
       </Item>
@@ -804,10 +867,10 @@
       <File>George FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="Radio New Zealand Concert">
+      <Item Name="Radio NZ Concert">
         <Satellite />
       </Item>
-      <File>Radio NZ Concert.png</File>
+      <File>Radio New Zealand Concert.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio NZ National">
