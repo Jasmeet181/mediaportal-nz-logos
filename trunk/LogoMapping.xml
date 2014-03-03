@@ -645,12 +645,6 @@
       <File>Sommet Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="Spice Xcess">
-        <Satellite />
-      </Item>
-      <File>Spice Xcess.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Star Plus Hindi">
         <Satellite />
       </Item>
