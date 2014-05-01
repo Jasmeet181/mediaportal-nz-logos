@@ -27,6 +27,12 @@
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
+      <Item Name="Apna Television">
+        <Satellite />
+      </Item>
+      <File>Apna Television.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Arts Channel">
         <Satellite />
       </Item>
