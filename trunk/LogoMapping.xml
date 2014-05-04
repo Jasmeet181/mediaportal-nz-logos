@@ -855,12 +855,6 @@
       <File>Calvary Chapel Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="FM 104.2">
-        <Satellite />
-      </Item>
-      <File>FM 104.2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="George FM">
         <Satellite />
       </Item>
@@ -879,7 +873,52 @@
       <File>Radio New Zealand National.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Digital Music">
+      <Item Name="FM 104.2">
+        <Satellite />
+      </Item>
+      <File>Radio9.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="50s &amp; 60s">
+        <Satellite />
+      </Item>
+      <Item Name="Blues">
+        <Satellite />
+      </Item>
+      <Item Name="Classical">
+        <Satellite />
+      </Item>
+      <Item Name="Country">
+        <Satellite />
+      </Item>
+      <Item Name="Grooves">
+        <Satellite />
+      </Item>
+      <Item Name="House">
+        <Satellite />
+      </Item>
+      <Item Name="Jazz">
+        <Satellite />
+      </Item>
+      <Item Name="Kids">
+        <Satellite />
+      </Item>
+      <Item Name="NZ Chart">
+        <Satellite />
+      </Item>
+      <Item Name="Party">
+        <Satellite />
+      </Item>
+      <Item Name="Pop">
+        <Satellite />
+      </Item>
+      <Item Name="Rock">
+        <Satellite />
+      </Item>
+      <Item Name="Smooth">
+        <Satellite />
+      </Item>
+      <Item Name="Special">
         <Satellite />
       </Item>
       <File>Sky Digital Music.png</File>
