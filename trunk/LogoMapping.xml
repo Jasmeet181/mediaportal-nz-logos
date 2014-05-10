@@ -27,7 +27,7 @@
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
-      <Item Name="Apna Television">
+      <Item Name="Apna">
         <Satellite />
       </Item>
       <File>Apna Television.png</File>
@@ -694,6 +694,12 @@
         <Satellite />
       </Item>
       <File>The Box.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Edge TV">
+        <Satellite />
+      </Item>
+      <File>The Edge TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Shopping Channel">
