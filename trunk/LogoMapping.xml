@@ -87,6 +87,12 @@
       <File>Channel North.png</File>
     </Channel>
     <Channel>
+      <Item Name="CI">
+        <Satellite />
+      </Item>
+      <File>CI.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CTV 1">
         <Satellite />
       </Item>
@@ -217,6 +223,12 @@
         <Satellite />
       </Item>
       <File>Dunedin Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DWTV">
+        <Satellite />
+      </Item>
+      <File>DWTV.png</File>
     </Channel>
     <Channel>
       <Item Name="E!">
@@ -711,6 +723,12 @@
       <File>The Shopping Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="TLC">
+        <Satellite />
+      </Item>
+      <File>TLC.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Trackside">
         <Satellite />
       </Item>
@@ -861,6 +879,12 @@
       <File>Calvary Chapel Radio.png</File>
     </Channel>
     <Channel>
+      <Item Name="Core Radio">
+        <Satellite />
+      </Item>
+      <File>Core Radio.png</File>
+    </Channel>
+    <Channel>
       <Item Name="George FM">
         <Satellite />
       </Item>
@@ -934,6 +958,12 @@
         <Satellite />
       </Item>
       <File>Tahu FM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Cheese">
+        <Satellite />
+      </Item>
+      <File>The Cheese.png</File>
     </Channel>
     <Channel>
       <Item Name="The Edge">
