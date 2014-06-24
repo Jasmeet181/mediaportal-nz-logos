@@ -279,6 +279,12 @@
       <File>Four.png</File>
     </Channel>
     <Channel>
+      <Item Name="Four Plus 1">
+        <Satellite />
+      </Item>
+      <File>Four Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox News">
         <Satellite />
       </Item>
@@ -780,6 +786,12 @@
       <File>TV2.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV29">
+        <Satellite />
+      </Item>
+      <File>TV29.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV3 Plus1">
         <Satellite />
       </Item>
@@ -802,12 +814,6 @@
         <Satellite />
       </Item>
       <File>TV33.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV9">
-        <Satellite />
-      </Item>
-      <File>TV9.png</File>
     </Channel>
     <Channel>
       <Item Name="tvCentral">
