@@ -28,7 +28,7 @@
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
-      <Item Name="Apna">
+      <Item Name="Apna Television">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Apna Television.png</File>
@@ -227,7 +227,7 @@
       <File>E!.png</File>
     </Channel>
     <Channel>
-      <Item Name="East Coast Television">
+      <Item Name="East Coast TV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>East Coast Television.png</File>
@@ -790,6 +790,9 @@
       <File>TV29.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV3 Plus 1">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
       <Item Name="TV3 Plus1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
