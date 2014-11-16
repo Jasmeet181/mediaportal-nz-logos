@@ -313,12 +313,6 @@
       <File>Info-Rotorua.png</File>
     </Channel>
     <Channel>
-      <Item Name="J2">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>J2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="JTV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -671,10 +665,16 @@
       <File>Star Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="TAB TV">
+      <Item Name="Trackside 1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TAB.png</File>
+      <File>TAB Trackside 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Trackside 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>TAB Trackside 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Tararua Television">
@@ -724,16 +724,16 @@
       <File>The Shopping Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="The Zone">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>The Zone.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TLC">
         <Provider>Vodafone (NZ)</Provider>
       </Item>
       <File>TLC.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Trackside">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Trackside.png</File>
     </Channel>
     <Channel>
       <Item Name="Travel Channel">
