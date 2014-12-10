@@ -34,12 +34,6 @@
       <File>Apna Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="Arts Channel">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Arts Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Knowledge">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -83,7 +77,7 @@
     </Channel>
     <Channel>
       <Item Name="CI">
-        <Provider>Vodafone (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>CI.png</File>
     </Channel>
@@ -207,6 +201,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Disney Junior.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney XD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Disney XD.png</File>
     </Channel>
     <Channel>
       <Item Name="DunedinTV">
@@ -515,6 +515,12 @@
       <File>Sky Arena.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Arts">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Arts.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Box Office">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -564,6 +570,15 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Movies Greats.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="12 Days of Xmas HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="12 Days of Xmas">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Movies Pop Up.png</File>
     </Channel>
     <Channel>
       <Item Name="SM Premiere HD">
@@ -633,6 +648,21 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Sport 6.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sport 7 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sky Sport 7">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sky Sport 8 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sky Sport 8">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Sport.png</File>
     </Channel>
     <Channel>
       <Item Name="Preview">
