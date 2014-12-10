@@ -695,13 +695,19 @@
       <File>Star Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Trackside 1">
+      <Item Name="TAB Tside 1">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="TAB Tside 1 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TAB Trackside 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Trackside 2">
+      <Item Name="TAB Tside 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="TAB Tside 2 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TAB Trackside 2.png</File>
@@ -755,6 +761,9 @@
     </Channel>
     <Channel>
       <Item Name="The Zone">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="The Zone HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>The Zone.png</File>
