@@ -245,6 +245,18 @@
       <File>ESPN.png</File>
     </Channel>
     <Channel>
+      <Item Name="ESPN2 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>ESPN2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>ESPN2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Face TV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -681,12 +693,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>SoHo.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sommet Sports">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Sommet Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus Hindi">
