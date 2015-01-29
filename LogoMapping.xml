@@ -418,12 +418,6 @@
       <File>Maori Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="MindGames">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>MindGames.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MTV Classic">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -479,12 +473,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Playboy TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="PlayinTV">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Playin TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Prime">
@@ -898,12 +886,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Vibe.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Weather">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Weather Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Yes Shop">
