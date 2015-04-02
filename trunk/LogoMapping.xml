@@ -572,6 +572,15 @@
       <File>Sky Movies Greats.png</File>
     </Channel>
     <Channel>
+      <Item Name="SM Marvel HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Marvel">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Movies Marvel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="12 Days of Xmas HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -665,6 +674,15 @@
       <File>Sky Sport.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Sport Masters HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sky Sport Masters">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Sport Masters.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Preview">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -681,6 +699,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>SoHo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sonlife">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sonlife.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus Hindi">
