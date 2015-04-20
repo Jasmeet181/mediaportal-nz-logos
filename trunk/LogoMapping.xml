@@ -166,13 +166,6 @@
       <File>Country TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cue">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Cue.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Daystar">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
