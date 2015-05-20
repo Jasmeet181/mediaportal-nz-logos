@@ -306,6 +306,12 @@
       <File>Front Row.png</File>
     </Channel>
     <Channel>
+      <Item Name="Garage">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Garage.png</File>
+    </Channel>
+    <Channel>
       <Item Name="History Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -328,12 +334,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Jones TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Juice TV">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Juice TV.png</File>
     </Channel>
     <Channel>
       <Item Name="KTV 1">
