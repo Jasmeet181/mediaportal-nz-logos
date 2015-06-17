@@ -538,6 +538,15 @@
       <File>Sky Movies Classics.png</File>
     </Channel>
     <Channel>
+      <Item Name="SM Disney HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Disney">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Movies Disney.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SM Extra HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
