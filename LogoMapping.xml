@@ -4,7 +4,7 @@
   <TV>
     <Channel>
       <Item Name="45 South TV">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>45 South TV.png</File>
     </Channel>
@@ -355,49 +355,49 @@
     </Channel>
     <Channel>
       <Item Name="Mainland 1">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 2">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 3">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 3.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 4">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 4.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 5">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 5.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 6">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 6.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 7">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland 7.png</File>
     </Channel>
     <Channel>
       <Item Name="Mainland 8">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Mainland Television.png</File>
     </Channel>
@@ -753,7 +753,7 @@
     </Channel>
     <Channel>
       <Item Name="TVHB">
-        <Provider>Freeview (NZ)</Provider>
+        <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Television Hawkes Bay.png</File>
     </Channel>
@@ -818,12 +818,6 @@
       <File>TV One.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Rotorua">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>TV Rotorua.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TV2+1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
@@ -873,12 +867,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>TV33.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="tvCentral">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>tvCentral.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ Heartland">
