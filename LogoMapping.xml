@@ -887,7 +887,7 @@
       <Item Name="TVSN">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TVSN Shopping.png</File>
+      <File>TVSN.png</File>
     </Channel>
     <Channel>
       <Item Name="UKTV">
@@ -900,6 +900,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Vibe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="One Wimbledon Pop-Up">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Wimbledon.png</File>
     </Channel>
     <Channel>
       <Item Name="Yes Shop">
