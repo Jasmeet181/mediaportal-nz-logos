@@ -40,6 +40,12 @@
       <File>BBC Knowledge.png</File>
     </Channel>
     <Channel>
+      <Item Name="UKTV">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>BBC UKTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC World">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -888,12 +894,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TVSN.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UKTV">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>UKTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Vibe">
