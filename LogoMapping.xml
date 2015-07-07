@@ -950,6 +950,12 @@
       <File>Niu FM.png</File>
     </Channel>
     <Channel>
+      <Item Name="Overcomer Radio">
+        <Provider>Terrestrial (NZ)</Provider>
+      </Item>
+      <File>Overcomer Ministry.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Radio NZ Concert">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
@@ -1031,6 +1037,12 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>The Edge.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VoA">
+        <Provider>Terrestrial (NZ)</Provider>
+      </Item>
+      <File>Voice of America.png</File>
     </Channel>
     <Channel>
       <Item Name="WTV Real Good Life">
