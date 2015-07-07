@@ -739,12 +739,6 @@
       <File>TAB Trackside 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Tararua Television">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Tararua Television.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TCM">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
