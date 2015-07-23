@@ -875,10 +875,10 @@
       <File>TVNZ Heartland.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVNZ Kidzone24">
+      <Item Name="TVNZ Kidzone">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TVNZ Kidzone24.png</File>
+      <File>TVNZ Kidzone.png</File>
     </Channel>
     <Channel>
       <Item Name="TVSN Shopping">
