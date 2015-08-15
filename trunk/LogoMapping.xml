@@ -790,6 +790,7 @@
     </Channel>
     <Channel>
       <Item Name="TLC">
+        <Provider>Sky TV (NZ)</Provider>
         <Provider>Vodafone (NZ)</Provider>
       </Item>
       <File>TLC.png</File>
@@ -867,6 +868,12 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>TV33.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVNZ Pop-Up">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>TVNZ.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ Heartland">
