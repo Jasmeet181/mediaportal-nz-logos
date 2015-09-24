@@ -324,6 +324,13 @@
       <File>History.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hope Channel">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Hope Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Info-Rotorua">
         <Provider>Freeview (NZ)</Provider>
       </Item>
@@ -339,7 +346,13 @@
       <Item Name="Jones!">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Jones TV.png</File>
+      <File>Jones.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jones! Junior">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Jones Junior Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="KTV 1">
@@ -595,7 +608,7 @@
       <Item Name="12 Days of Xmas">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Sky Movies Pop Up.png</File>
+      <File>Sky Movies Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="SM Premiere HD">
@@ -873,13 +886,7 @@
       <Item Name="TVNZ Pop-Up">
         <Provider>Freeview (NZ)</Provider>
       </Item>
-      <File>TVNZ.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVNZ Heartland">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TVNZ Heartland.png</File>
+      <File>TVNZ Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ Kidzone">
@@ -901,12 +908,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Vibe.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="One Wimbledon Pop-Up">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Wimbledon.png</File>
     </Channel>
     <Channel>
       <Item Name="Yes Shop">
