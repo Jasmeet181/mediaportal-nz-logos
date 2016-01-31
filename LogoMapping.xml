@@ -190,6 +190,12 @@
       <File>Discovery.png</File>
     </Channel>
     <Channel>
+      <Item Name="Discovery Turbo">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Discovery Turbo.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Disney Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -355,6 +361,12 @@
       <File>Jones Junior Pop-Up.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kordia TV">
+        <Provider>Terrestrial (NZ)</Provider>
+      </Item>
+      <File>Kordia.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTV 1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -430,16 +442,10 @@
       <File>Maori Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV Classic">
+      <Item Name="MTV Music">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>MTV Classic.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MTV Hits">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>MTV Hits.png</File>
+      <File>MTV Music.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV">
@@ -807,12 +813,6 @@
         <Provider>Vodafone (NZ)</Provider>
       </Item>
       <File>TLC.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Travel Channel">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Travel Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="TV One Plus 1">
