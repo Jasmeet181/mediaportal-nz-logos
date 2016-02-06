@@ -497,6 +497,9 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Prime HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <File>Prime.png</File>
     </Channel>
     <Channel>
@@ -732,6 +735,18 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sonlife.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Chinese Movies">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Star Chinese Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Chinese Channel">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Star Chinese Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus Hindi">
