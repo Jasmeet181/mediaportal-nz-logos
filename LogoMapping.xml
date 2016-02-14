@@ -160,6 +160,12 @@
       <File>CNN.png</File>
     </Channel>
     <Channel>
+      <Item Name="Colors">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Colors.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Comedy Central">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -300,16 +306,16 @@
       <File>Fox News.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24 French">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>France 24 French.png</File>
-    </Channel>
-    <Channel>
       <Item Name="France 24">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>France 24.png</File>
+      <File>France 24 English.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24 French">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>France 24 Francais.png</File>
     </Channel>
     <Channel>
       <Item Name="Front Row">
@@ -737,16 +743,22 @@
       <File>Sonlife.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star Chinese Movies">
+      <Item Name="SCM">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Star Chinese Movies.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star Chinese Channel">
+      <Item Name="SCC">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Star Chinese Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Gold">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Star Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus Hindi">
@@ -790,6 +802,12 @@
         <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Television Hawkes Bay.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TFC">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>TFC.png</File>
     </Channel>
     <Channel>
       <Item Name="The Box">
