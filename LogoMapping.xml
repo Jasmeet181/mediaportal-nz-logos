@@ -220,6 +220,12 @@
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Duke">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Duke.png</File>
+    </Channel>
+    <Channel>
       <Item Name="DunedinTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
