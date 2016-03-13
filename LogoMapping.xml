@@ -88,53 +88,8 @@
       <File>CI.png</File>
     </Channel>
     <Channel>
-      <Item Name="CTV 1">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 2">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 3">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 4">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 4.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 5">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 5.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 6">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 6.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CTV 7">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 7.png</File>
-    </Channel>
-    <Channel>
       <Item Name="ChineseTV">
         <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <Item Name="CTV 8">
-        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Chinese TV 8.png</File>
     </Channel>
@@ -379,18 +334,6 @@
       <File>Kordia.png</File>
     </Channel>
     <Channel>
-      <Item Name="KTV 1">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Korean TV 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="KTV 2">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Korean TV 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Living Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -605,6 +548,12 @@
       <File>Sky Movies Family.png</File>
     </Channel>
     <Channel>
+      <Item Name="SM Family Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Movies Family Pop-Up.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SM Greats HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -701,6 +650,12 @@
       <File>Sky Sport 6.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Sport Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Sport Pop-Up.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sport 7 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -741,6 +696,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>SoHo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SoHo Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>SoHo Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="Sonlife">
