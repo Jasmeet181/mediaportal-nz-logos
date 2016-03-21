@@ -857,9 +857,6 @@
       <File>TV29.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3 Plus 1">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
       <Item Name="TV3 Plus1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
@@ -881,12 +878,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>TV33.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVNZ Pop-Up">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>TVNZ Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ Kidzone">
