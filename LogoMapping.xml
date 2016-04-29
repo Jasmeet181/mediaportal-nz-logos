@@ -40,6 +40,12 @@
       <File>BBC Knowledge.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Knowledge Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>BBC Knowledge Pop-Up.png</File>
+    </Channel>
+    <Channel>
       <Item Name="UKTV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
