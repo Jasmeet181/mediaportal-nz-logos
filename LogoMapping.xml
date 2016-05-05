@@ -9,12 +9,6 @@
       <File>45 South TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Adult Channel">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Adult Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Al Jazeera">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
@@ -314,12 +308,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Info-Rotorua.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="JTV">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Japanese TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Jones!">
@@ -656,6 +644,12 @@
       <File>Sky Sport 6.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Sport  Mosiac">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Sport  Mosiac.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sport Pop-Up">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -675,15 +669,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Sport.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sport Masters HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Sky Sport Masters">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Sport Masters.png</File>
     </Channel>
     <Channel>
       <Item Name="Preview">
