@@ -291,6 +291,12 @@
       <File>Garage.png</File>
     </Channel>
     <Channel>
+      <Item Name="HGTV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>HGTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="History Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
