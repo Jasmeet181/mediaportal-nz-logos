@@ -267,18 +267,6 @@
       <File>Fox News.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>France 24 English.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="France 24 French">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>France 24 Francais.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Front Row">
         <Provider>Igloo</Provider>
       </Item>
@@ -485,7 +473,10 @@
       <File>Shine TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Arena">
+      <Item Name="Sky Arena">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sky Arena HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Arena.png</File>
@@ -650,13 +641,16 @@
       <File>Sky Sport 6.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sport  Mosiac">
+      <Item Name="Sport  Mosiac">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Sport  Mosiac.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sport Pop-Up">
+      <Item Name="Sport Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Sport Pop-Up HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Sport Pop-Up.png</File>
@@ -698,6 +692,9 @@
       <Item Name="SoHo Pop-Up">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="SoHo Pop-Up HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <File>SoHo Pop-Up.png</File>
     </Channel>
     <Channel>
@@ -731,7 +728,7 @@
       <File>Star Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="TAB Tside 1">
+      <Item Name="TAB Trackside1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="TAB Tside 1 HD">
@@ -740,7 +737,10 @@
       <File>TAB Trackside 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="TAB Tside 2">
+      <Item Name="TAB Trackside2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="TAB TS2 Retail">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="TAB Tside 2 HD">
@@ -762,7 +762,7 @@
       <File>Te Reo.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVHB">
+      <Item Name="Television Hawke's Bay">
         <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Television Hawkes Bay.png</File>
@@ -948,6 +948,8 @@
     <Channel>
       <Item Name="Radio NZ Concert">
         <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <Item Name="RNZ Concert">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Radio New Zealand Concert.png</File>
@@ -955,6 +957,8 @@
     <Channel>
       <Item Name="Radio NZ National">
         <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <Item Name="RNZ National">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Radio New Zealand National.png</File>
@@ -966,7 +970,7 @@
       <File>Radio9.png</File>
     </Channel>
     <Channel>
-      <Item Name="50s &amp; 60s">
+      <Item Name="50's &amp; 60's">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Blues">
@@ -1035,13 +1039,13 @@
       <File>Voice of America.png</File>
     </Channel>
     <Channel>
-      <Item Name="WTV Real Good Life">
+      <Item Name="Real Good Life">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>WTV Real Good Life.png</File>
     </Channel>
     <Channel>
-      <Item Name="WTV Real Supremo">
+      <Item Name="New Supremo">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>WTV Real Supremo.png</File>
