@@ -940,12 +940,6 @@
       <File>Niu FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="Overcomer Radio">
-        <Provider>Terrestrial (NZ)</Provider>
-      </Item>
-      <File>Overcomer Ministry.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Radio NZ Concert">
         <Provider>Freeview (NZ)</Provider>
       </Item>
@@ -1031,6 +1025,12 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>The Edge.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Overcomer Radio">
+        <Provider>Terrestrial (NZ)</Provider>
+      </Item>
+      <File>The Overcomer Ministry.png</File>
     </Channel>
     <Channel>
       <Item Name="VoA">
