@@ -52,6 +52,20 @@
       <File>BBC World News.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bravo">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bravo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bravo Plus 1">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bravo Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Brazzers TV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -245,20 +259,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Food TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Four">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Four.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Four Plus 1">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Four Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox News">
@@ -974,6 +974,9 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Country">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="EPG Background Audio">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Grooves">
