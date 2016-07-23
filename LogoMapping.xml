@@ -267,12 +267,6 @@
       <File>Fox News.png</File>
     </Channel>
     <Channel>
-      <Item Name="Front Row">
-        <Provider>Igloo</Provider>
-      </Item>
-      <File>Front Row.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Garage">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
