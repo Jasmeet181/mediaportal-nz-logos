@@ -249,6 +249,12 @@
       <File>Face TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fashion TV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Fashion TV New Zealand.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Firstlight">
         <Provider>Freeview (NZ)</Provider>
       </Item>
