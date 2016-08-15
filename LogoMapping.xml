@@ -52,6 +52,42 @@
       <File>BBC World News.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bein Sports 1">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports 1 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports Pop-Up 1">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports Pop-Up 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports Pop-Up 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports Pop-Up 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports Pop-Up 3">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports Pop-Up 3.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Bravo">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
