@@ -934,6 +934,12 @@
       <File>Vibe.png</File>
     </Channel>
     <Channel>
+      <Item Name="Wairarapa TV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Wairarapa TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Yes Shop">
         <Provider>Freeview (NZ)</Provider>
       </Item>
