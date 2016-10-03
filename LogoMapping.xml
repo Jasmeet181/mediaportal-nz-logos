@@ -225,12 +225,6 @@
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Duke">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Duke.png</File>
-    </Channel>
-    <Channel>
       <Item Name="DunedinTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
@@ -848,40 +842,46 @@
       <File>TLC.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV One Plus 1">
+      <Item Name="TVNZ 1 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="TVNZ 1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TV One Plus 1.png</File>
+      <File>TVNZ 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV One HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="TV One">
+      <Item Name="TVNZ 1 +1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TV One.png</File>
+      <File>TVNZ 1 +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV2+1">
+      <Item Name="TVNZ 2">
         <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <Item Name="TVNZ 2 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TV2 Plus 1.png</File>
+      <Item Name="TVNZ 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>TVNZ 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV2">
+      <Item Name="TVNZ 2 +1">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>TVNZ 2 +1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVNZ Duke">
         <Provider>Freeview (NZ)</Provider>
       </Item>
-      <Item Name="TV2 HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="TV 2">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TV2.png</File>
+      <File>TVNZ Duke.png</File>
     </Channel>
     <Channel>
       <Item Name="TV29">
