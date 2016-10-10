@@ -939,15 +939,6 @@
       </Item>
       <File>Wairarapa TV.png</File>
     </Channel>
-    <Channel>
-      <Item Name="Yes Shop">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <Item Name="YesShop">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>YesShop.png</File>
-    </Channel>
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
