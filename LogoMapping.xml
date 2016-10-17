@@ -99,6 +99,9 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Bravo Plus1">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
       <File>Bravo Plus 1.png</File>
     </Channel>
     <Channel>
@@ -949,7 +952,7 @@
       <File>Base FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="Calvary Chapel Radio">
+      <Item Name="Calvary">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Calvary Chapel Radio.png</File>
@@ -962,6 +965,9 @@
     </Channel>
     <Channel>
       <Item Name="George FM">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <Item Name="GeorgeFM">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>George FM.png</File>
@@ -1000,6 +1006,9 @@
       <Item Name="50's &amp; 60's">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Ad Tracks">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <Item Name="Blues">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -1022,6 +1031,9 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Kids">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Movies">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="NZ Chart">
