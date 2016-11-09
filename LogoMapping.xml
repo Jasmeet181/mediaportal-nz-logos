@@ -13,7 +13,7 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Al Jazeera.png</File>
+      <File>Al Jazeera English.png</File>
     </Channel>
     <Channel>
       <Item Name="Animal Planet">
@@ -165,7 +165,7 @@
       <Item Name="CNN">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>CNN.png</File>
+      <File>CNN International.png</File>
     </Channel>
     <Channel>
       <Item Name="Colors">
@@ -243,7 +243,7 @@
       <Item Name="E!">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>E!.png</File>
+      <File>E.png</File>
     </Channel>
     <Channel>
       <Item Name="East Coast TV">
@@ -460,13 +460,19 @@
       <Item Name="PCNE Chinese">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>PCNE Chinese.png</File>
+      <File>Phoenix CNE.png</File>
     </Channel>
     <Channel>
       <Item Name="Playboy">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Playboy TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Preview">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Preview.png</File>
     </Channel>
     <Channel>
       <Item Name="Prime">
@@ -704,15 +710,6 @@
       <File>Sky Sport.png</File>
     </Channel>
     <Channel>
-      <Item Name="Preview">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Upgrade Channel">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky.png</File>
-    </Channel>
-    <Channel>
       <Item Name="SoHo">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -734,7 +731,7 @@
       <Item Name="Sonlife">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Sonlife.png</File>
+      <File>Sonlife Broadcasting Network.png</File>
     </Channel>
     <Channel>
       <Item Name="SCM">
@@ -859,7 +856,7 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TVNZ 1 +1.png</File>
+      <File>TVNZ 1 Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ 2">
@@ -878,7 +875,7 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>TVNZ 2 +1.png</File>
+      <File>TVNZ 2 Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="TVNZ Duke">
@@ -931,6 +928,12 @@
       <File>TVSN.png</File>
     </Channel>
     <Channel>
+      <Item Name="Upgrade Channel">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Upgrade Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Vibe">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -945,6 +948,12 @@
   </TV>
   <!-- ******************************************************************** -->
   <Radio>
+    <Channel>
+      <Item Name="New Supremo">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>AM936.png</File>
+    </Channel>
     <Channel>
       <Item Name="BaseFM">
         <Provider>Freeview (NZ)</Provider>
@@ -962,6 +971,18 @@
         <Provider>Vodafone (NZ)</Provider>
       </Item>
       <File>Core Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Real Good Life">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>FM994.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FM 104.2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>FM1042.png</File>
     </Channel>
     <Channel>
       <Item Name="George FM">
@@ -995,12 +1016,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Radio New Zealand National.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="FM 104.2">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Radio9.png</File>
     </Channel>
     <Channel>
       <Item Name="50's &amp; 60's">
@@ -1081,22 +1096,16 @@
       <File>The Overcomer Ministry.png</File>
     </Channel>
     <Channel>
+      <Item Name="Tsunado">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Tsunado.png</File>
+    </Channel>
+    <Channel>
       <Item Name="VoA">
         <Provider>Terrestrial (NZ)</Provider>
       </Item>
       <File>Voice of America.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Real Good Life">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>WTV Real Good Life.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="New Supremo">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>WTV Real Supremo.png</File>
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
