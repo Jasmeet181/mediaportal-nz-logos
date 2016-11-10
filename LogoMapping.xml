@@ -135,18 +135,6 @@
       <File>Channel North.png</File>
     </Channel>
     <Channel>
-      <Item Name="CI">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>CI.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ChineseTV">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Chinese TV 8.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Choice TV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -184,6 +172,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Country TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CI">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Crime and Investigation.png</File>
     </Channel>
     <Channel>
       <Item Name="Daystar">
@@ -662,28 +656,10 @@
       <File>Sky Sport 4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sport 5 HD">
+      <Item Name="Sport Mosiac">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <Item Name="Sky Sport 5">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Sport 5.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sport 6 HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Sky Sport 6">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Sport 6.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sport  Mosiac">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Sport  Mosiac.png</File>
+      <File>Sky Sport Mosiac.png</File>
     </Channel>
     <Channel>
       <Item Name="Sport Pop-Up">
@@ -693,21 +669,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Sport Pop-Up.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sport 7 HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Sky Sport 7">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Sky Sport 8 HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Sky Sport 8">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Sport.png</File>
     </Channel>
     <Channel>
       <Item Name="SoHo">
@@ -884,12 +845,6 @@
       <File>TVNZ Duke.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV29">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>TV29.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TV3 Plus1">
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
@@ -940,10 +895,28 @@
       <File>Vibe.png</File>
     </Channel>
     <Channel>
+      <Item Name="Viceland">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Viceland.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Wairarapa TV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Wairarapa TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ChineseTV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>WTV28.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV29">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>WTV29.png</File>
     </Channel>
   </TV>
   <!-- ******************************************************************** -->
