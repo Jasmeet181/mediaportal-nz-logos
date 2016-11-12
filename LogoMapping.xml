@@ -497,6 +497,24 @@
       <File>Rugby Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rugby 1">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Rugby Channel Pop-Up 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rugby 2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Rugby Channel Pop-Up 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rugby 3">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Rugby Channel Pop-Up 3.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Shine TV">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -519,6 +537,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Arts.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Arts Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Arts Art Your TV Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Box Office">
