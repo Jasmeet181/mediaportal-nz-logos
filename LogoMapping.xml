@@ -427,7 +427,7 @@
       <Item Name="Nat Geographic">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Nat Geo.png</File>
+      <File>National Geographic.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr.">
