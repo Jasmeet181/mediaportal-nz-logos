@@ -111,12 +111,6 @@
       <File>Brazzers TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="CanterburyTV">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Canterbury Television.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Cartoon Network">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -433,7 +427,7 @@
       <Item Name="Nick Jr.">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Nick Jr..png</File>
+      <File>Nick Jr.png</File>
     </Channel>
     <Channel>
       <Item Name="Nickelodeon">
