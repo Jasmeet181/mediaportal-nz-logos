@@ -424,6 +424,12 @@
       <File>National Geographic.png</File>
     </Channel>
     <Channel>
+      <Item Name="NCTV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>NCTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nick Jr.">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -471,6 +477,13 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Prime.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prime Plus 1">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Prime Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Rialto">
