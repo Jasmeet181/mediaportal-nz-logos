@@ -117,10 +117,10 @@
       <File>Cartoon Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="CCTV News">
+      <Item Name="CGTN">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>CCTV News.png</File>
+      <File>CGTN.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel North">
@@ -633,6 +633,12 @@
       <Item Name="12 Days of Xmas">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="SM Spy HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Spy">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <File>Sky Movies Pop-Up.png</File>
     </Channel>
     <Channel>
@@ -1028,6 +1034,9 @@
       <Item Name="Ad Tracks">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Ad Tracks - All">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <Item Name="Blues">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -1068,6 +1077,9 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Smooth">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Summer Sounds">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Special">
