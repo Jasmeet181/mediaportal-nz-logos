@@ -216,12 +216,6 @@
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DunedinTV">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
-      <File>Dunedin Television.png</File>
-    </Channel>
-    <Channel>
       <Item Name="DWTV">
         <Provider>Vodafone (NZ)</Provider>
       </Item>
@@ -730,6 +724,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sonlife Broadcasting Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SouthernTV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Southern Television.png</File>
     </Channel>
     <Channel>
       <Item Name="SCM">
