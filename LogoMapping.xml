@@ -833,6 +833,23 @@
       <File>The Zone.png</File>
     </Channel>
     <Channel>
+      <Item Name="Three Plus1">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Three Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Three HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Three">
+        <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Three.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TLC">
         <Provider>Sky TV (NZ)</Provider>
         <Provider>Vodafone (NZ)</Provider>
@@ -880,23 +897,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>TVNZ Duke.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV3 Plus1">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TV3 Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV3 HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="TV3">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TV3.png</File>
     </Channel>
     <Channel>
       <Item Name="TV33">
