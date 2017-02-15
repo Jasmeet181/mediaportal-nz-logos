@@ -833,8 +833,10 @@
       <File>The Zone.png</File>
     </Channel>
     <Channel>
-      <Item Name="Three Plus1">
+      <Item Name="Three Plus 1">
         <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <Item Name="Three Plus1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Three Plus 1.png</File>
@@ -1008,6 +1010,12 @@
         <Provider>Optus D1</Provider>
       </Item>
       <File>Niu FM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RadioLive">
+        <Provider>Optus D1</Provider>
+      </Item>
+      <File>Radio Live.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio NZ Concert">
