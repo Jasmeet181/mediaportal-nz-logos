@@ -968,12 +968,6 @@
       <File>Base FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="Calvary">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Calvary Chapel Radio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Core Radio">
         <Provider>Vodafone (NZ)</Provider>
       </Item>
