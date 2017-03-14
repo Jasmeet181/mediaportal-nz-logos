@@ -99,9 +99,6 @@
         <Provider>Freeview (NZ)</Provider>
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <Item Name="Bravo Plus1">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
       <File>Bravo Plus 1.png</File>
     </Channel>
     <Channel>
@@ -264,7 +261,7 @@
       <File>Face TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fashion TV">
+      <Item Name="FashionTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Fashion TV New Zealand.png</File>
@@ -418,7 +415,7 @@
       <File>National Geographic.png</File>
     </Channel>
     <Channel>
-      <Item Name="NCTV">
+      <Item Name="NCTV-Chinese">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>NCTV.png</File>
@@ -517,10 +514,8 @@
     </Channel>
     <Channel>
       <Item Name="Shine TV">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="ShineTV">
         <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Shine TV.png</File>
     </Channel>
@@ -833,11 +828,11 @@
       <File>The Zone.png</File>
     </Channel>
     <Channel>
-      <Item Name="Three Plus 1">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
       <Item Name="Three Plus1">
         <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="ThreePlus1">
+        <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Three Plus 1.png</File>
     </Channel>
@@ -940,7 +935,7 @@
       <File>Viceland.png</File>
     </Channel>
     <Channel>
-      <Item Name="Wairarapa TV">
+      <Item Name="WairarapaTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Wairarapa TV.png</File>
