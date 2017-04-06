@@ -813,9 +813,6 @@
       <Item Name="Shopping Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <Item Name="The Shopping Channel">
-        <Provider>Freeview (NZ)</Provider>
-      </Item>
       <File>The Shopping Channel.png</File>
     </Channel>
     <Channel>
