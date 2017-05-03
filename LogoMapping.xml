@@ -213,12 +213,6 @@
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DWTV">
-        <Provider>Vodafone (NZ)</Provider>
-      </Item>
-      <File>DWTV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="E!">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -1086,12 +1080,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Tahu FM.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Cheese">
-        <Provider>Vodafone (NZ)</Provider>
-      </Item>
-      <File>The Cheese.png</File>
     </Channel>
     <Channel>
       <Item Name="The Edge">
