@@ -322,12 +322,6 @@
       <File>Jones Junior Pop-Up.png</File>
     </Channel>
     <Channel>
-      <Item Name="Kordia TV">
-        <Provider>Terrestrial (NZ)</Provider>
-      </Item>
-      <File>Kordia.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Living Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -891,12 +885,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>TV33.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVNZ Kidzone">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TVNZ Kidzone.png</File>
     </Channel>
     <Channel>
       <Item Name="TVSN Shopping">
