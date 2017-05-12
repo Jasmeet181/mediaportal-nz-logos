@@ -947,12 +947,6 @@
       <File>Base FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="Core Radio">
-        <Provider>Vodafone (NZ)</Provider>
-      </Item>
-      <File>Core Radio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Real Good Life">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
