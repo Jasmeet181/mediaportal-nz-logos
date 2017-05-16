@@ -186,7 +186,7 @@
       <Item Name="Discovery">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Discovery.png</File>
+      <File>Discovery Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Turbo">
@@ -240,13 +240,13 @@
       <Item Name="ESPN2 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>ESPN2 HD.png</File>
+      <File>ESPN 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN2">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>ESPN2.png</File>
+      <File>ESPN 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Face TV">
@@ -575,12 +575,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="SM Family">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Sky Movies Family.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SM Family Pop-Up">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Movies Family Pop-Up.png</File>
