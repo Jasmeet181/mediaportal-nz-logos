@@ -11,7 +11,7 @@
    viewBox="0 0 1456.229 214.07499"
    version="1.1"
    id="svg16"
-   sodipodi:docname="Brazzers TV.svg"
+   sodipodi:docname="Brazzers TV - Dark.svg"
    width="1456.229"
    height="214.075"
    inkscape:version="0.92.0 r15299">
@@ -31,6 +31,18 @@
      id="defs20">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient4518">
+      <stop
+         style="stop-color:#4f4f4f;stop-opacity:1"
+         offset="0"
+         id="stop4514" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4516" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient4570">
       <stop
          style="stop-color:#fcc91c;stop-opacity:1"
@@ -44,18 +56,6 @@
          style="stop-color:#d9b51f;stop-opacity:1"
          offset="1"
          id="stop4568" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4562">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0"
-         id="stop4558" />
-      <stop
-         style="stop-color:#adafb2;stop-opacity:1"
-         offset="1"
-         id="stop4560" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -81,15 +81,6 @@
        gradientTransform="translate(-59.188,-286.743)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4562"
-       id="linearGradient4564"
-       x1="409.89221"
-       y1="347.82581"
-       x2="409.89221"
-       y2="450.09836"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4570"
        id="linearGradient4572"
        x1="1375.0116"
@@ -99,24 +90,6 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4562"
-       id="linearGradient4576"
-       gradientUnits="userSpaceOnUse"
-       x1="409.89221"
-       y1="347.82581"
-       x2="409.89221"
-       y2="450.09836" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4562"
-       id="linearGradient4578"
-       gradientUnits="userSpaceOnUse"
-       x1="409.89221"
-       y1="347.82581"
-       x2="409.89221"
-       y2="450.09836" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4570"
        id="linearGradient4580"
        gradientUnits="userSpaceOnUse"
@@ -124,6 +97,33 @@
        y1="287.09033"
        x2="1375.0116"
        y2="500.47064" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4518"
+       id="linearGradient4520"
+       x1="283.13165"
+       y1="348.19928"
+       x2="283.13165"
+       y2="449.60773"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4518"
+       id="linearGradient4522"
+       gradientUnits="userSpaceOnUse"
+       x1="283.13165"
+       y1="348.19928"
+       x2="283.13165"
+       y2="449.60773" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4518"
+       id="linearGradient4524"
+       gradientUnits="userSpaceOnUse"
+       x1="283.13165"
+       y1="348.19928"
+       x2="283.13165"
+       y2="449.60773" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -156,17 +156,17 @@
      inkscape:connector-curvature="0" />
   <g
      id="g4556"
-     style="fill:url(#linearGradient4564);fill-opacity:1"
+     style="fill:url(#linearGradient4520);fill-opacity:1"
      transform="translate(-59.188,-286.743)">
     <path
        id="path2"
        d="M 59.188,450.277 V 347.529 h 88.08 c 8.096,0 13.958,1.585 17.589,4.765 3.631,3.177 5.443,8.228 5.443,15.159 V 380 c 0,4.923 -1.522,8.859 -4.565,11.81 -3.049,2.944 -7.424,4.776 -13.122,5.494 5.895,0.777 10.446,2.88 13.648,6.312 3.215,3.434 4.821,7.912 4.821,13.415 v 13.124 c 0,6.812 -2.498,11.863 -7.486,15.17 -4.991,3.3 -12.576,4.953 -22.749,4.953 H 59.188 Z m 78.066,-86.03 H 82.711 v 24.5 h 54.544 c 4.142,0 7.005,-0.552 8.601,-1.65 1.585,-1.105 2.385,-3.016 2.385,-5.737 v -9.724 c 0,-2.653 -0.8,-4.552 -2.385,-5.682 -1.597,-1.138 -4.46,-1.707 -8.602,-1.707 z m 0,41.41 H 82.711 v 26.15 h 54.544 c 4.532,0 7.591,-0.679 9.187,-2.038 1.589,-1.361 2.373,-3.759 2.373,-7.189 v -7.782 c 0,-3.434 -0.785,-5.816 -2.373,-7.152 -1.597,-1.325 -4.656,-1.989 -9.188,-1.989 z m 70.116,44.62 V 347.529 h 87.875 c 8.167,0 14.081,1.572 17.737,4.716 3.659,3.14 5.495,8.212 5.495,15.207 v 24.109 c 0,6.936 -1.836,11.993 -5.495,15.168 -3.656,3.166 -9.57,4.754 -17.737,4.754 H 281.83 l 47.435,38.794 h -34.311 l -41.41,-38.794 h -22.655 v 38.794 z m 77.281,-84.962 h -53.763 v 28.586 h 53.763 c 4.146,0 6.978,-0.602 8.502,-1.806 1.523,-1.19 2.289,-3.318 2.289,-6.361 v -12.346 c 0,-2.98 -0.766,-5.072 -2.289,-6.274 -1.523,-1.197 -4.356,-1.799 -8.502,-1.799 z m 180.635,-4.998 c -0.857,-3.385 -2.331,-6.129 -4.594,-8.081 -3.675,-3.131 -9.562,-4.715 -17.731,-4.715 h -64.634 c -8.161,0 -14.102,1.584 -17.737,4.715 0,0.005 -0.009,0.009 -0.009,0.009 -0.004,0.004 -0.008,0.004 -0.008,0.008 -1.506,1.29 -2.618,2.976 -3.503,4.921 -1.286,2.777 -2.011,6.152 -2.011,10.293 l 0.021,82.819 h 23.523 V 411.52 h 64.064 v 38.765 h 23.519 v -82.82 c 0,-2.698 -0.349,-5.024 -0.9,-7.148 z m -87.171,33.592 v -20.515 c 0,-2.974 0.762,-5.07 2.287,-6.265 1.466,-1.154 4.169,-1.744 8.058,-1.785 h 43.891 c 4.172,0 6.982,0.59 8.521,1.763 1.5,1.228 2.27,3.318 2.27,6.31 v 20.492 z"
-       style="fill:url(#linearGradient4576);fill-opacity:1"
+       style="fill:url(#linearGradient4522);fill-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="path6"
        d="M 795.718,450.277 V 347.529 h 105.183 v 17.49 h -81.274 v 22.951 h 47.435 v 17.5 h -47.435 v 25.461 h 82.25 v 19.346 H 795.718 Z m 142.44,0 V 347.529 h 87.885 c 8.153,0 14.071,1.572 17.731,4.716 3.66,3.14 5.493,8.212 5.493,15.207 v 24.109 c 0,6.936 -1.834,11.993 -5.493,15.168 -3.659,3.166 -9.577,4.754 -17.731,4.754 h -13.428 l 47.443,38.794 h -34.309 L 984.327,411.483 H 961.68 v 38.794 z m 77.274,-84.962 H 961.68 v 28.586 h 53.751 c 4.149,0 6.99,-0.602 8.506,-1.806 1.523,-1.19 2.285,-3.318 2.285,-6.361 v -12.346 c 0,-2.98 -0.762,-5.072 -2.285,-6.274 -1.515,-1.197 -4.356,-1.799 -8.505,-1.799 z m 158.345,0.197 h -67.271 v 22.066 h 64.052 c 10.048,0 16.843,1.715 20.38,5.156 3.522,3.434 5.294,9.817 5.294,19.145 v 14.094 c 0,9.336 -1.772,15.719 -5.294,19.162 -3.537,3.422 -10.331,5.141 -20.38,5.141 h -63.47 c -10.048,0 -16.835,-1.719 -20.368,-5.141 -3.533,-3.443 -5.29,-9.826 -5.29,-19.162 v -4.115 h 21.088 v 9.072 h 72.611 v -23.423 h -64.06 c -9.976,0 -16.72,-1.721 -20.219,-5.154 -3.502,-3.43 -5.248,-9.82 -5.248,-19.154 v -11.37 c 0,-9.331 1.746,-15.709 5.248,-19.152 3.499,-3.438 10.243,-5.149 20.219,-5.149 h 58.329 c 9.662,0 16.307,1.65 19.978,4.953 3.659,3.312 5.493,9.174 5.493,17.596 v 4.591 h -21.092 z"
-       style="fill:url(#linearGradient4578);fill-opacity:1"
+       style="fill:url(#linearGradient4524);fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
