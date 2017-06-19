@@ -322,6 +322,12 @@
       <File>Jones Junior Pop-Up.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jones! Too">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Jones Too.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Living Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -533,6 +539,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Box Office.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Box Sets">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky Box Sets.png</File>
     </Channel>
     <Channel>
       <Item Name="SM Action HD">
