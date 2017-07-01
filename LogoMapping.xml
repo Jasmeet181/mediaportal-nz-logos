@@ -544,6 +544,9 @@
       <Item Name="Sky Box Sets">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Sky Box Sets HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <File>Sky Box Sets.png</File>
     </Channel>
     <Channel>
@@ -808,15 +811,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>The Shopping Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Zone">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="The Zone HD">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>The Zone.png</File>
     </Channel>
     <Channel>
       <Item Name="Three Plus1">
