@@ -619,6 +619,12 @@
       <Item Name="12 Days of Xmas">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="SM Harry Potter HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Harry Potter">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <Item Name="SM Spy HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -813,11 +819,9 @@
       <File>The Shopping Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Three Plus1">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
       <Item Name="ThreePlus1">
         <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Three Plus 1.png</File>
     </Channel>
@@ -1001,12 +1005,6 @@
       <Item Name="50's &amp; 60's">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <Item Name="Ad Tracks">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="Ad Tracks - All">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
       <Item Name="Blues">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -1014,9 +1012,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Country">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <Item Name="EPG Background Audio">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Grooves">
@@ -1049,10 +1044,16 @@
       <Item Name="Smooth">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="Summer of Love">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <Item Name="Summer Sounds">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Special">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Valentines">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Sky Digital Music.png</File>
