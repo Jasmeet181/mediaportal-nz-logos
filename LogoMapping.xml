@@ -279,12 +279,6 @@
       <File>Fox News.png</File>
     </Channel>
     <Channel>
-      <Item Name="Garage">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Garage.png</File>
-    </Channel>
-    <Channel>
       <Item Name="HGTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
@@ -910,6 +904,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Vibe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vibe Pop-Up">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Vibe Pop-Up.png</File>
     </Channel>
     <Channel>
       <Item Name="Viceland">
