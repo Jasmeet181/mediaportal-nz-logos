@@ -421,6 +421,12 @@
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
+      <Item Name="Panda TV">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>Panda TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Parliament">
         <Provider>Freeview (NZ)</Provider>
       </Item>
