@@ -421,7 +421,7 @@
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
-      <Item Name="Panda TV">
+      <Item Name="PandaTV">
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Panda TV.png</File>
