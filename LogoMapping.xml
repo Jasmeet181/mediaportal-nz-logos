@@ -508,6 +508,12 @@
       <File>Shine TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky 5">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Sky 5.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Arena">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -792,12 +798,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TFC.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Box">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>The Box.png</File>
     </Channel>
     <Channel>
       <Item Name="The Edge TV">
