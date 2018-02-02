@@ -379,6 +379,12 @@
       <File>Maori Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTV Classic">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>MTV Classic.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MTV Music">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
