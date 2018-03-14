@@ -892,6 +892,12 @@
       <File>TVNZ Duke.png</File>
     </Channel>
     <Channel>
+      <Item Name="TVNZ Games Extra">
+        <Provider>Freeview (NZ)</Provider>
+      </Item>
+      <File>TVNZ Games Extra.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TV33">
         <Provider>Freeview (NZ)</Provider>
       </Item>
