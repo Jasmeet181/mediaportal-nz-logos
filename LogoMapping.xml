@@ -795,7 +795,7 @@
     </Channel>
     <Channel>
       <Item Name="Television Hawke's Bay">
-        <Provider>Terrestrial (NZ)</Provider>
+        <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>Television Hawkes Bay.png</File>
     </Channel>
@@ -888,12 +888,14 @@
     <Channel>
       <Item Name="TVNZ Duke">
         <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TVNZ Duke.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVNZ Games Extra">
+      <Item Name="TVNZ GamesExtra">
         <Provider>Freeview (NZ)</Provider>
+        <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TVNZ Games Extra.png</File>
     </Channel>
@@ -1088,12 +1090,6 @@
         <Provider>Freeview (NZ)</Provider>
       </Item>
       <File>The Edge.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Overcomer Radio">
-        <Provider>Terrestrial (NZ)</Provider>
-      </Item>
-      <File>The Overcomer Ministry.png</File>
     </Channel>
     <Channel>
       <Item Name="Tsunado">
