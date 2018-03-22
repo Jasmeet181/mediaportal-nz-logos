@@ -58,10 +58,10 @@
       <File>Bein Sports 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports 1 HD">
+      <Item Name="Bein Sports HD 1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Bein Sports 1 HD.png</File>
+      <File>Bein Sports HD 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Bein Sports 2">
@@ -83,6 +83,12 @@
     </Channel>
     <Channel>
       <Item Name="Bein Sports Pop-Up 3">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Bein Sports Pop-Up 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bein Sports Pop-Up HD 3">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Bein Sports Pop-Up 3.png</File>
