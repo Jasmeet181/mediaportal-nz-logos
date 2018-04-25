@@ -742,18 +742,6 @@
       <File>Southern Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="SCM">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Star Chinese Movies.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SCC">
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>Star Chinese Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Star Gold">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -897,13 +885,6 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>TVNZ Duke.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVNZ GamesExtra">
-        <Provider>Freeview (NZ)</Provider>
-        <Provider>Sky TV (NZ)</Provider>
-      </Item>
-      <File>TVNZ Games Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="TV33">
