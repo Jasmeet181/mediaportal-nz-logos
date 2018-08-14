@@ -58,10 +58,10 @@
       <File>Bein Sports 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports HD 1">
+      <Item Name="Bein Sports 1 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Bein Sports HD 1.png</File>
+      <File>Bein Sports 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Bein Sports 2">
@@ -70,28 +70,28 @@
       <File>Bein Sports 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports Pop-Up 1">
+      <Item Name="Bein Pop-Up 1">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Bein Sports Pop-Up 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports Pop-Up 2">
+      <Item Name="Bein Pop-Up 2">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Bein Sports Pop-Up 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports Pop-Up 3">
+      <Item Name="Bein Pop-Up 3">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Bein Sports Pop-Up 3.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bein Sports Pop-Up HD 3">
+      <Item Name="Bein Pop-Up 3 HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Bein Sports Pop-Up 3.png</File>
+      <File>Bein Sports Pop-Up 3 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Bravo">
@@ -277,6 +277,12 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <File>Fox News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ginx Esports Pop">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>Ginx eSports TV.png</File>
     </Channel>
     <Channel>
       <Item Name="HGTV">
@@ -631,10 +637,22 @@
       <Item Name="12 Days of Xmas">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
+      <Item Name="SM Frats &amp; Brats HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Frats &amp; Brats">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>>
       <Item Name="SM Harry Potter HD">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="SM Harry Potter">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Matt Damon HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SM Matt Damon">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="SM Spy HD">
@@ -721,6 +739,12 @@
       <File>SoHo.png</File>
     </Channel>
     <Channel>
+      <Item Name="Shameless">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Shameless HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
       <Item Name="SoHo Pop-Up">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
@@ -1023,6 +1047,9 @@
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="Grooves">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="Hip Hop Hits">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
       <Item Name="House">
