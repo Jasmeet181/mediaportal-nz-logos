@@ -328,6 +328,12 @@
       <File>Jones Too.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kordia UHD Test">
+        <Provider>Terrestrial (NZ)</Provider>
+      </Item>
+      <File>Kordia.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Living Channel">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
