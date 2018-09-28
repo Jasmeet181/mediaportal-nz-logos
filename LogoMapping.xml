@@ -760,6 +760,15 @@
       <File>SoHo Pop-Up.png</File>
     </Channel>
     <Channel>
+      <Item Name="SoHo2">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <Item Name="SoHo2 HD">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>SoHo2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sonlife">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
