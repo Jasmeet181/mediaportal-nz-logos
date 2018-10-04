@@ -1037,7 +1037,7 @@
       <Item Name="RNZ Concert">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Radio New Zealand Concert.png</File>
+      <File>RNZ Concert.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio NZ National">
@@ -1046,7 +1046,7 @@
       <Item Name="RNZ National">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
-      <File>Radio New Zealand National.png</File>
+      <File>RNZ National.png</File>
     </Channel>
     <Channel>
       <Item Name="50's &amp; 60's">
