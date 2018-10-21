@@ -28,6 +28,12 @@
       <File>Apna Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Earth">
+        <Provider>Sky TV (NZ)</Provider>
+      </Item>
+      <File>BBC Earth.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Knowledge">
         <Provider>Sky TV (NZ)</Provider>
       </Item>
