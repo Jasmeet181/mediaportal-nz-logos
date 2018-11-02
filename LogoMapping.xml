@@ -7,136 +7,136 @@
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>45 South TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Al Jazeera">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Al Jazeera English.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Animal Planet.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Apna Television">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Apna Television.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="BBC Earth">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>BBC Earth.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="BBC Knowledge">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>BBC Knowledge.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="BBC Knowledge Pop-Up">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>BBC Knowledge Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="UKTV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>BBC UKTV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="BBC World">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>BBC World News.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Sports 1">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Sports 1 HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports 1 HD.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Sports 2">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Pop-Up 1">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports Pop-Up 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Pop-Up 2">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports Pop-Up 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Pop-Up 3">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports Pop-Up 3.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bein Pop-Up 3 HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bein Sports Pop-Up 3 HD.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bravo">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bravo.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Bravo Plus 1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Bravo Plus 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Brazzers TV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Brazzers TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Cartoon Network">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Cartoon Network.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="CGTN">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>CGTN.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Channel North">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Channel North.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Choice TV">
 				<Provider>Sky TV (NZ)</Provider>
@@ -145,254 +145,254 @@
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Choice TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="CNBC">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>CNBC.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="CNN">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>CNN International.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Colors">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Colors.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Comedy Central">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Comedy Central.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Country TV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Country TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="CI">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Crime and Investigation.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Daystar">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Daystar.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Desire TV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Desire TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Discovery">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Discovery Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Discovery Turbo">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Discovery Turbo.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Disney Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Disney Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Disney Junior">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Disney Junior.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Disney XD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Disney XD.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="E!">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>E.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="East Coast TV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>East Coast Television.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ESPN HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>ESPN HD.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ESPN">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>ESPN.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ESPN2 HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>ESPN 2 HD.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ESPN2">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>ESPN 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Face TV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Face TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Firstlight">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Firstlight.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Food Television">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Food TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Fox News">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Fox News.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Ginx Esports Pop">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Ginx eSports TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="HGTV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>HGTV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="History Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>History.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Hope Channel">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Hope Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Info-Rotorua">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Info-Rotorua.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Jones!">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Jones.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Jones! Junior">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Jones Junior Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Jones! Too">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Jones Too.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Kordia UHD Test">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Kordia.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Living Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Living.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 1">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 2">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 3">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 3.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 4">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 4.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 5">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 5.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 6">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 6.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 7">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland 7.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Mainland 8">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Mainland Television.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Maori Television">
 				<Provider>Freeview (NZ)</Provider>
@@ -401,55 +401,55 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Maori Television.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="MTV Classic">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>MTV Classic.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="MTV Music">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>MTV Music.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="MTV">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>MTV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Nat Geographic">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>National Geographic.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="NCTV-Chinese">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>NCTV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Nick Jr.">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Nick Jr.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Nickelodeon">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Nickelodeon.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="PandaTV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Panda TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Parliament">
 				<Provider>Freeview (NZ)</Provider>
@@ -458,25 +458,25 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Parliament TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="PCNE Chinese">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Phoenix CNE.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Playboy">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Playboy TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Preview">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Preview.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Prime">
 				<Provider>Freeview (NZ)</Provider>
@@ -486,63 +486,63 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Prime.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Prime Plus 1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Prime Plus 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Rialto">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Rialto Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="RT">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>RT.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Rugby Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Rugby Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Rugby 1">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Rugby Channel Pop-Up 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Rugby 2">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Rugby Channel Pop-Up 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Rugby 3">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Rugby Channel Pop-Up 3.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Shine TV">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Shine TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky 5">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky 5.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Arena">
 				<Provider>Sky TV (NZ)</Provider>
@@ -551,25 +551,25 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Arena.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Arts">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Arts.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Arts Pop-Up">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Arts Art Your TV Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Box Office">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Box Office.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Box Sets">
 				<Provider>Sky TV (NZ)</Provider>
@@ -578,7 +578,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Box Sets.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Action HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -587,7 +587,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Action.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Classics HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -596,7 +596,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Classics.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Disney HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -605,7 +605,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Disney.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Extra HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -614,7 +614,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Extra.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Family HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -623,7 +623,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Family Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Greats HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -632,7 +632,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Greats.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Marvel HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -641,7 +641,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Marvel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="12 Days of Xmas HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -674,7 +674,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SM Premiere HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -683,13 +683,13 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Premiere.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky News">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky News New Zealand.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1 HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -698,7 +698,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 2 HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -707,7 +707,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 3 HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -716,7 +716,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport 3.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 4 HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -725,13 +725,13 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport 4.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sport Mosiac">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport Mosiac.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sport Pop-Up">
 				<Provider>Sky TV (NZ)</Provider>
@@ -740,7 +740,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SoHo">
 				<Provider>Sky TV (NZ)</Provider>
@@ -749,7 +749,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>SoHo.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Shameless">
 				<Provider>Sky TV (NZ)</Provider>
@@ -764,7 +764,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>SoHo Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SoHo2">
 				<Provider>Sky TV (NZ)</Provider>
@@ -773,31 +773,31 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>SoHo2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Sonlife">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sonlife Broadcasting Network.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="SouthernTV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Southern Television.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Star Gold">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Star Gold.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Star Plus Hindi">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Star Plus.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TAB Trackside1">
 				<Provider>Sky TV (NZ)</Provider>
@@ -806,7 +806,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TAB Trackside 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TAB Trackside2">
 				<Provider>Sky TV (NZ)</Provider>
@@ -818,59 +818,59 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TAB Trackside 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TCM">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TCM.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Te Reo">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Te Reo.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Television Hawke's Bay">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Television Hawkes Bay.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TFC">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TFC.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="The Edge TV">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>The Edge TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Shopping Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>The Shopping Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ThreePlus1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Three Plus 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ThreeLife">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>ThreeLife.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Three HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -880,14 +880,14 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Three.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TLC">
 				<Provider>Sky TV (NZ)</Provider>
 				<Provider>Vodafone (NZ)</Provider>
 			</Item>
 			<File>TLC.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVNZ 1 HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -897,14 +897,14 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVNZ 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVNZ 1 +1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVNZ 1 Plus 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVNZ 2">
 				<Provider>Freeview (NZ)</Provider>
@@ -916,27 +916,27 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVNZ 2.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVNZ 2 +1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVNZ 2 Plus 1.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVNZ Duke">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVNZ Duke.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TV33">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>TV33.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TVSN Shopping">
 				<Provider>Freeview (NZ)</Provider>
@@ -945,49 +945,49 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TVSN.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Upgrade Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Upgrade Channel.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Vibe">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Vibe.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Vibe Pop-Up">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Vibe Pop-Up.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Viceland">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Viceland.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="WairarapaTV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Wairarapa TV.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="ChineseTV">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>WTV28.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="TV29">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>WTV29.png</File>
-		<Channel>
+		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
 	<Radio>
@@ -996,25 +996,25 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>AM936.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="BaseFM">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>Base FM.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Real Good Life">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>FM994.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="FM 104.2">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>FM1042.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="George FM">
 				<Provider>Freeview (NZ)</Provider>
@@ -1023,19 +1023,19 @@
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>George FM.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Niu FM">
 				<Provider>Optus D1</Provider>
 			</Item>
 			<File>Niu FM.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="RadioLive">
 				<Provider>Optus D1</Provider>
 			</Item>
 			<File>Radio Live.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Radio NZ Concert">
 				<Provider>Freeview (NZ)</Provider>
@@ -1044,7 +1044,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>RNZ Concert.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Radio NZ National">
 				<Provider>Freeview (NZ)</Provider>
@@ -1053,7 +1053,7 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>RNZ National.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="50's &amp; 60's">
 				<Provider>Sky TV (NZ)</Provider>
@@ -1113,31 +1113,31 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Digital Music.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Tahu FM">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Tahu FM.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="The Edge">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
 			<File>The Edge.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="Tsunado">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Tsunado.png</File>
-		<Channel>
+		</Channel>
 		<Channel>
 			<Item Name="VoA">
 				<Provider>Terrestrial (NZ)</Provider>
 			</Item>
 			<File>Voice of America.png</File>
-		<Channel>
+		</Channel>
 	</Radio>
 <!-- ******************************************************************** -->
 </Mappings>
