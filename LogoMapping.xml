@@ -261,10 +261,10 @@
 			<File>Firstlight.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Food Television">
+			<Item Name="Food Network">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
-			<File>Food TV.png</File>
+			<File>Food Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fox News">
@@ -308,6 +308,12 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Jones.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jones! Britannia">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Jones Britannia Pop-Up.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jones! Junior">
