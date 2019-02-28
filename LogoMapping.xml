@@ -965,10 +965,10 @@
 			<File>Vibe Pop-Up.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Viceland">
+			<Item Name="Vice">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
-			<File>Viceland.png</File>
+			<File>Vice.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WairarapaTV">
