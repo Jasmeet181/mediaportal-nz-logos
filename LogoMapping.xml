@@ -685,6 +685,12 @@
 			<File>Sky Movies Premiere.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SM Vintage">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Movies Vintage.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky News">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
@@ -740,6 +746,42 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport Pop-Up.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 1">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 2">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 3">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 4">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 5">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 6">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 6.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SoHo">
@@ -818,12 +860,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TAB Trackside 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TCM">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>TCM.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Te Reo">
