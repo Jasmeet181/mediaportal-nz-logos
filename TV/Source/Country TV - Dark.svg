@@ -1,0 +1,150 @@
+<svg id="o" width="193" height="162" version="1.1" viewBox="0 0 51.065 42.862" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="p">
+  <clipPath id="i">
+   <path id="q" d="m480.61 378.42h82.8v24.803h-82.8z"/>
+  </clipPath>
+  <clipPath id="j">
+   <path id="r" d="m537.14 394.89-0.701-1.953h1.659v1.953z"/>
+  </clipPath>
+  <clipPath id="k">
+   <path id="s" d="m489.76 396.93v-12.247h48.341v8.25h-1.659l0.701 1.953h0.958v2.044z"/>
+  </clipPath>
+  <clipPath id="l">
+   <path id="t" d="m541.77 394.89 0.688-1.953h2.17l-0.619 1.953z"/>
+  </clipPath>
+  <clipPath id="m">
+   <path id="u" d="m539.01 392.94h2.104v1.953h-2.104z"/>
+  </clipPath>
+  <linearGradient id="d" x2="1" gradientTransform="matrix(10.616 0 0 -10.616 535.43 393.91)" gradientUnits="userSpaceOnUse">
+   <stop id="v" stop-color="#7fcc28" offset="0"/>
+   <stop id="w" stop-color="#00a99f" offset="1"/>
+  </linearGradient>
+  <clipPath id="n">
+   <path id="x" d="m544.63 386.76h1.953l-0.991 3.127z"/>
+  </clipPath>
+  <linearGradient id="e" x2="1" gradientTransform="matrix(4.2119 11.749 11.749 -4.2119 544.84 385.21)" gradientUnits="userSpaceOnUse">
+   <stop id="y" stop-color="#00adef" offset="0"/>
+   <stop id="z" stop-color="#1c63b7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x2="1" gradientTransform="matrix(4.2318 -11.47 -11.47 -4.2318 542.12 396.78)" gradientUnits="userSpaceOnUse">
+   <stop id="aa" stop-color="#00a99f" offset="0"/>
+   <stop id="ab" stop-color="#66ccce" offset="1"/>
+  </linearGradient>
+  <linearGradient id="g" x2="1" gradientTransform="matrix(-5e-7 10.482 10.482 5e-7 540.06 385.53)" gradientUnits="userSpaceOnUse">
+   <stop id="ac" stop-color="#cce310" offset="0"/>
+   <stop id="ad" stop-color="#80cc28" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(10.616 0 0 -10.616 535.43 393.91)" gradientUnits="userSpaceOnUse" xlink:href="#d"/>
+  <linearGradient id="c" x1="-45.06" x2="-36.73" y1="20.575" y2="20.575" gradientUnits="userSpaceOnUse">
+   <stop id="ae" stop-color="#0cb04b" offset="0"/>
+   <stop id="af" stop-color="#02af4b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="-34.136" x2="-22.815" y1="20.575" y2="20.575" gradientUnits="userSpaceOnUse">
+   <stop id="ag" stop-color="#00a96c" offset="0"/>
+   <stop id="ah" stop-color="#00aa76" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x1="-22.796" x2="-15.065" y1="42.699" y2="42.699" gradientUnits="userSpaceOnUse">
+   <stop id="ai" stop-color="#00a5a5" offset="0"/>
+   <stop id="aj" stop-color="#00a1a6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="ak" transform="translate(55.248 -6.0283)">
+  <path id="al" d="m-45.062 16.709h8.3317v32.182h-8.3317z" fill="#fff"/>
+  <g id="am" transform="matrix(3.9599 0 0 -3.9599 -34.137 16.707)">
+   <path id="an" d="m0 0h2.239l2.578-8.127h-1.953z" fill="#fff"/>
+  </g>
+  <g id="ao" transform="matrix(3.9599 0 0 -3.9599 -4.1835 16.707)">
+   <path id="ap" d="m0 0h-2.203l-2.498-8.127h1.953z" fill="#fff"/>
+  </g>
+  <g id="aq" transform="matrix(3.9599 0 0 -3.9599 -25.272 16.707)">
+   <path id="ar" d="m0 0 0.62-1.953h-8.19l0.701 1.953z" fill="#fff"/>
+  </g>
+  <g id="as" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="at">
+    <g id="au">
+     <g id="av">
+      <path id="aw" d="m539.01 386.76h2.1035v6.1739h-2.1035z" fill="url(#g)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="ax" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="ay">
+    <g id="az">
+     <g id="ba">
+      <path id="bb" d="m542.46 392.94 2.175-6.174 0.962 3.127-0.967 3.047z" fill="url(#f)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="bc" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="bd">
+    <g id="be">
+     <g id="bf">
+      <path id="bg" d="m547.13 394.89-1.536-5.0001 0.991-3.127 2.748 8.1271z" fill="url(#e)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="bh" transform="matrix(.35278 0 0 -.35278 -227.24 183.9)">
+   <g id="bi" clip-path="url(#n)"></g>
+  </g>
+  <g id="bj" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="bk">
+    <g id="bl">
+     <g id="bm">
+      <path id="bn" d="m544.01 394.89 0.619-1.953h1e-3z" fill="url(#a)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="bo" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="bp">
+    <g id="bq">
+     <g id="br">
+      <path id="bs" d="m541.11 394.89v-1.9529h1.343l-0.688 1.9529z" fill="url(#a)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="bt" transform="matrix(3.9599 0 0 -3.9599 -2179.5 1580.4)">
+   <g id="bu">
+    <g id="bv">
+     <g id="bw">
+      <path id="bx" d="m536.44 392.94h2.5729v1.9529h-1.8719z" fill="url(#a)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="by" transform="matrix(.35278 0 0 -.35278 -227.24 183.9)">
+   <g id="bz" clip-path="url(#m)"></g>
+  </g>
+  <g id="ca" transform="matrix(.35278 0 0 -.35278 -227.24 183.9)">
+   <g id="cb" clip-path="url(#l)"></g>
+  </g>
+  <g id="cc" transform="matrix(.35278 0 0 -.35278 -227.24 183.9)">
+   <g id="cd" clip-path="url(#k)"></g>
+  </g>
+  <g id="ce" transform="matrix(.35278 0 0 -.35278 -227.24 183.9)">
+   <g id="cf" clip-path="url(#j)"></g>
+  </g>
+  <g id="cg" transform="matrix(1.1458 0 0 -1.1458 -618.53 458.7)" fill="#225c2c">
+   <g id="ch" clip-path="url(#i)" fill="#225c2c">
+    <g id="ci" transform="translate(495.4 389.36)" fill="#225c2c">
+     <g id="cj" fill="#225c2c">
+      <path id="ck" transform="translate(11.852 -2.792)" d="m0 0c-1.615 0-2.935 1.142-2.935 2.922v5.404h1.909v-5.236c0-0.754 0.393-1.187 1.026-1.187s1.048 0.433 1.048 1.187v5.236h1.909v-5.404c0-1.78-1.342-2.922-2.957-2.922"/>
+      <path id="cl" transform="translate(6.1595 .2977)" d="m0 0c0-0.753-0.415-1.187-1.048-1.187s-1.026 0.434-1.026 1.187v2.334c0 0.753 0.393 1.187 1.026 1.187s1.048-0.434 1.048-1.187zm-1.048 5.423c-1.615 0-2.935-1.141-2.935-2.922v-2.668c0-1.781 1.32-2.923 2.935-2.923s2.958 1.142 2.958 2.923v2.668c0 1.781-1.343 2.922-2.958 2.922"/>
+      <path id="cm" transform="translate(20.23 -2.5935)" d="m0 0-2.489 4.151v-4.151h-1.909v8.127h1.67l2.487-4.151v4.151h1.911v-8.127z"/>
+      <path id="cn" transform="translate(26.24 3.6309)" d="m0 0v-6.224h-1.91v6.224h-1.91v1.903h5.729v-1.903z"/>
+      <path id="co" transform="translate(31.598 3.6309)" d="m0 0h-0.972v-1.533h0.972c0.524 0 0.765 0.367 0.765 0.789 0 0.423-0.241 0.744-0.765 0.744m0.818-6.224-1.083 2.856-0.707-1e-3v-2.855h-1.91v8.127h3.072c1.724 0 2.482-1.15 2.482-2.486 0-1.107-0.392-1.904-1.065-2.338l1.307-3.303z"/>
+      <path id="cp" transform="translate(38.432 -.3472)" d="m0 0v-2.246h-1.909v2.246l-2.347 5.881h2.084l1.223-3.588 1.211 3.588h2.085z"/>
+      <path id="cq" d="m0 0c-0.092-0.569-0.391-0.889-0.91-0.889-0.603 0-0.977 0.433-0.977 1.187v2.333c0 0.754 0.374 1.187 0.977 1.187 0.507 0 0.8-0.306 0.903-0.851l1.668 0.814c-0.374 1.207-1.436 1.939-2.664 1.939-1.533 0-2.786-1.14-2.786-2.921v-2.669c0-1.78 1.253-2.922 2.786-2.922 1.241 0 2.312 0.748 2.675 1.977z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <path id="cr" d="m-31.412 24.442h8.597l-2.4563-7.7334h-8.865z" fill="url(#b)" style="paint-order:stroke fill markers"/>
+  <path id="cs" d="m-45.06 24.442h8.3297v-7.7334h-8.3297z" fill="url(#c)" style="paint-order:stroke fill markers"/>
+  <path id="ct" d="m-22.796 48.89h7.7309l-3.9243-12.382z" fill="url(#h)" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>
