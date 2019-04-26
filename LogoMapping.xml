@@ -433,10 +433,10 @@
 			<File>Nick Jr.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Nick Jr. PAW Patrol Pop-Up">
+			<Item Name="Nick Jr. PAW Patrol Pop-up">
 				<Provider>Full Name (NZ)</Provider>
 			</Item>
-			<File>Nick Jr PAW Patrol Pop-Up.png</File>
+			<File>Nick Jr PAW Patrol Pop-up.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nickelodeon">
