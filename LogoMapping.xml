@@ -334,6 +334,12 @@
 			<File>Kordia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kordia TV">
+				<Provider>Freeview (NZ)</Provider>
+			</Item>
+			<File>Kordia TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Living Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
