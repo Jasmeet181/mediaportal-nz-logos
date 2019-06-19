@@ -914,6 +914,13 @@
 			<File>ThreeLife.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ThreeLife +1">
+				<Provider>Freeview (NZ)</Provider>
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>ThreeLife Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Three HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
