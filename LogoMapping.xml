@@ -207,12 +207,6 @@
 			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney XD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Disney XD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="E!">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
