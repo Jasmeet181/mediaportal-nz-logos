@@ -694,7 +694,7 @@
 			<Item Name="Sky News">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
-			<File>Sky News New Zealand.png</File>
+			<File>Sky News.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sport 1 HD">
@@ -879,13 +879,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TFC.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="The Edge TV">
-				<Provider>Freeview (NZ)</Provider>
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>The Edge TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Shopping Channel">
