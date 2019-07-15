@@ -541,6 +541,9 @@
 			<Item Name="Sky 5">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
+			<Item Name="Sky 5 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
 			<File>Sky 5.png</File>
 		</Channel>
 		<Channel>
@@ -784,6 +787,18 @@
 			<File>Sky Sport Pop-Up 6.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sport Pop-Up 7">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sport Pop-Up 8">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Pop-Up 8.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SoHo">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
@@ -990,6 +1005,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Vibe">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Vibe HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Vibe.png</File>
