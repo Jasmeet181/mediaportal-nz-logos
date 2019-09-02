@@ -736,6 +736,60 @@
 			<File>Sky Sport 4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sport 5 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport 5">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 6 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport 6">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 7 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport 7">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 8 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport 8">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport 9 HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport 9">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport News HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport News">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport News.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sport Mosiac">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
