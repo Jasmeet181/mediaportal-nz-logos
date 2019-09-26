@@ -114,6 +114,12 @@
 			<File>Cartoon Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CBeebies">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>CBeebies.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CGTN">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
