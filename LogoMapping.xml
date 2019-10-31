@@ -126,6 +126,12 @@
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CGTN Documentary">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>CGTN Documentary.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Channel North">
 				<Provider>Freeview (NZ)</Provider>
 			</Item>
