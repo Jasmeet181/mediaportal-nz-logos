@@ -615,16 +615,6 @@
 			<File>Sky Movies Classics.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closing 31/10/2019 -->
-			<Item Name="SM Disney HD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<Item Name="SM Disney">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Movies Disney.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="SM Extra HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
@@ -633,8 +623,6 @@
 			</Item>
 			<File>Sky Movies Extra.png</File>
 		</Channel>
-		<!-- Launches 01/11/19 -->
-		<!--
 		<Channel>
 			<Item Name="SM Family HD">
 				<Provider>Sky TV (NZ)</Provider>
@@ -643,17 +631,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Movies Family.png</File>
-		</Channel>
-		-->
-		<!-- Rename 01/11/19 -->
-		<Channel>
-			<Item Name="SM Family HD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<Item Name="SM Family">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Movies Family Pop-Up.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SM Greats HD">
