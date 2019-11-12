@@ -165,10 +165,10 @@
 			<File>Colors.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comedy Central">
+			<Item Name="Comedy Central HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
-			<File>Comedy Central.png</File>
+			<File>Comedy Central HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Country TV">
@@ -417,16 +417,16 @@
 			<File>MTV Classic.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MTV HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>MTV HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="MTV Music">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>MTV Music.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="MTV">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>MTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nat Geographic">
