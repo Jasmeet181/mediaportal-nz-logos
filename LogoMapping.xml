@@ -28,10 +28,10 @@
 			<File>Apna Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC Earth">
+			<Item Name="BBC Earth HD">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
-			<File>BBC Earth.png</File>
+			<File>BBC Earth HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="UKTV">
@@ -205,20 +205,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Discovery Turbo.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 30/11/2019 -->
-			<Item Name="Disney Channel">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Disney Channel.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closing 30/11/2019 -->
-			<Item Name="Disney Junior">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="E!">
