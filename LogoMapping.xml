@@ -46,48 +46,6 @@
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bein Sports 1">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Sports 1 HD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports 1 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Sports 2">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Pop-Up 1">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports Pop-Up 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Pop-Up 2">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports Pop-Up 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Pop-Up 3">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports Pop-Up 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bein Pop-Up 3 HD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Bein Sports Pop-Up 3 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Bravo">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
@@ -776,63 +734,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Sky Sport Mosiac.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<Item Name="Sport Pop-Up HD">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 1">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 2">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 3">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 3.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 4">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 4.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 5">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 5.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 6">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 6.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 7">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 7.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sport Pop-Up 8">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Pop-Up 8.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SoHo">
