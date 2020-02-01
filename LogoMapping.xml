@@ -730,12 +730,6 @@
 			<File>Sky Sport News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sport Mosiac">
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>Sky Sport Mosiac.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="SoHo">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
