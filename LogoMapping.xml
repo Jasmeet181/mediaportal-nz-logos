@@ -827,6 +827,22 @@
 			<File>TFC.png</File>
 		</Channel>
 		<Channel>
+		<!-- Launches 26/03/2020 -->
+			<Item Name="The Breeze TV">
+				<Provider>Freeview (NZ)</Provider>
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>The Breeze.png</File>
+		</Channel>
+		<Channel>
+		<!-- Launches 26/03/2020 -->
+			<Item Name="The Edge TV">
+				<Provider>Freeview (NZ)</Provider>
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>The Edge.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Shopping Channel">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
@@ -840,6 +856,7 @@
 			<File>Three Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 26/03/2020 -->
 			<Item Name="ThreeLife">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
@@ -847,6 +864,7 @@
 			<File>ThreeLife.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 26/03/2020 -->
 			<Item Name="ThreeLife +1">
 				<Provider>Freeview (NZ)</Provider>
 				<Provider>Sky TV (NZ)</Provider>
