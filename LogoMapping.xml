@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- Replace ThreeLife with The Edge TV on 26/03/2020 -->
-		<!-- Replace ThreeLife +1 with The Breeze TV on 26/03/2020 -->
 	<TV>
 		<Channel>
 			<Item Name="45 South TV">
@@ -854,20 +852,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Three Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ThreeLife">
-				<Provider>Freeview (NZ)</Provider>
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>ThreeLife.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ThreeLife +1">
-				<Provider>Freeview (NZ)</Provider>
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>ThreeLife Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Three HD">
