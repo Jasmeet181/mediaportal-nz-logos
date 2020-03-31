@@ -730,6 +730,15 @@
 			<File>Sky Sport News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sport Quiz HD">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<Item Name="Sky Sport Quiz">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky Sport Quiz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SoHo">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
