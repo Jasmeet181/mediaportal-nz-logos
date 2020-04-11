@@ -505,6 +505,12 @@
 			<File>Sky 5.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky 5 Pop-Up">
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Sky 5 Pop-Up.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Arena">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
