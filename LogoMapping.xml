@@ -66,6 +66,13 @@
 			<File>Brazzers TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Breeze TV">
+				<Provider>Freeview (NZ)</Provider>
+				<Provider>Sky TV (NZ)</Provider>
+			</Item>
+			<File>Breeze TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cartoon Network">
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
@@ -278,12 +285,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>Jones Too.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Kordia UHD Test">
-				<Provider>Terrestrial (NZ)</Provider>
-			</Item>
-			<File>Kordia.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Kordia TV">
@@ -840,13 +841,6 @@
 				<Provider>Sky TV (NZ)</Provider>
 			</Item>
 			<File>TFC.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="The Breeze TV">
-				<Provider>Freeview (NZ)</Provider>
-				<Provider>Sky TV (NZ)</Provider>
-			</Item>
-			<File>The Breeze.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="The Edge TV">
