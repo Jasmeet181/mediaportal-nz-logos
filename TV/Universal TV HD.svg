@@ -1,5 +1,29 @@
-<svg width="800" height="435.73" version="1.1" viewBox="0 0 800 435.73" xmlns="http://www.w3.org/2000/svg">
+<svg width="864.8" height="435.73" version="1.1" viewBox="0 0 864.8 435.73" xmlns="http://www.w3.org/2000/svg">
  <defs>
+  <radialGradient id="radialGradient15662" cx="0" cy="0" r="1" gradientTransform="matrix(22.905 -20.307 -20.307 -22.905 245.43 459.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f36431" offset="0"/>
+   <stop stop-color="#f36431" offset=".1"/>
+   <stop stop-color="#f25645" offset=".25"/>
+   <stop stop-color="#f25645" offset=".25"/>
+   <stop stop-color="#f14e54" offset=".34891"/>
+   <stop stop-color="#f14e54" offset=".35"/>
+   <stop stop-color="#f14e54" offset=".4185"/>
+   <stop stop-color="#ee1f5a" offset=".65"/>
+   <stop stop-color="#ee1f5a" offset=".81152"/>
+   <stop stop-color="#ed1b4e" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient15626" cx="0" cy="0" r="1" gradientTransform="matrix(22.959 -20.305 -20.305 -22.959 245.39 459.45)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f36431" offset="0"/>
+   <stop stop-color="#f36431" offset=".1"/>
+   <stop stop-color="#f25645" offset=".25"/>
+   <stop stop-color="#f25645" offset=".25"/>
+   <stop stop-color="#f14e54" offset=".34891"/>
+   <stop stop-color="#f14e54" offset=".35"/>
+   <stop stop-color="#f14e54" offset=".4185"/>
+   <stop stop-color="#ee1f5a" offset=".65"/>
+   <stop stop-color="#ee1f5a" offset=".81152"/>
+   <stop stop-color="#ed1b4e" offset="1"/>
+  </radialGradient>
   <radialGradient id="radialGradient15590" cx="0" cy="0" r="1" gradientTransform="matrix(22.889 -20.39 -20.39 -22.889 245.43 459.49)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#f36431" offset="0"/>
    <stop stop-color="#f36431" offset=".1"/>
@@ -52,6 +76,12 @@
   </g>
   <g transform="matrix(23.651 0 0 -23.651 -5525.8 10637)">
    <path d="m254.54 449.59v-0.323h0.617v-1.642h0.341l1e-3 1.642h0.615v0.323z" fill="url(#radialGradient15590)"/>
+  </g>
+  <g transform="matrix(23.651 0 0 -23.651 -5525.8 10637)">
+   <path d="m265.31 458.12v-1.028h-0.977v1.028h-0.76v-2.746h0.76v1.044h0.977v-1.044h0.762v2.746z" fill="url(#radialGradient15626)"/>
+  </g>
+  <g transform="matrix(23.651 0 0 -23.651 -5525.8 10637)">
+   <path d="m266.6 458.12v-2.746h1.044c0.989 0 1.565 0.589 1.565 1.381v8e-3c0 0.793-0.569 1.357-1.55 1.357zm0.761-0.675h0.31c0.455 0 0.757-0.254 0.757-0.694v-8e-3c0-0.442-0.302-0.695-0.757-0.695h-0.31z" fill="url(#radialGradient15662)"/>
   </g>
  </g>
 </svg>
