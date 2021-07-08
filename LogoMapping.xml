@@ -99,6 +99,12 @@
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="CH200">
+					<Provider>Freeview (NZ)</Provider>
+				</Item>
+			<File>Channel 200.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="C33">
 					<Provider>Freeview (NZ)</Provider>
 				</Item>
@@ -287,12 +293,6 @@
 					<Provider>Sky (NZ)</Provider>
 				</Item>
 			<File>Jones Too.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Kordia TV">
-					<Provider>Freeview (NZ)</Provider>
-				</Item>
-			<File>Kordia TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Living Channel">
@@ -963,12 +963,6 @@
 					<Provider>Freeview (NZ)</Provider>
 				</Item>
 			<File>WTV28.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TV29">
-					<Provider>Freeview (NZ)</Provider>
-				</Item>
-			<File>WTV29.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
