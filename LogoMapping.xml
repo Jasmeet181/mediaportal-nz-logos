@@ -358,16 +358,22 @@
 			<File>Maori Television.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MTV 80s">
+					<Provider>Sky (NZ)</Provider>
+				</Item>
+			<File>MTV 80s.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTV HD">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
 			<File>MTV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV Music">
+				<Item Name="MTV Hits">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
-			<File>MTV Music.png</File>
+			<File>MTV Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nat Geographic">
@@ -542,13 +548,22 @@
 			<File>Sky Movies Classics.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="SM Extra HD">
+				<Item Name="SM Collection HD">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
-				<Item Name="SM Extra">
+				<Item Name="SM Collection">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
-			<File>Sky Movies Extra.png</File>
+			<File>Sky Movies Collection.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="SM Comedy HD">
+					<Provider>Sky (NZ)</Provider>
+				</Item>
+				<Item Name="SM Comedy">
+					<Provider>Sky (NZ)</Provider>
+				</Item>
+			<File>Sky Movies Comedy.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="SM Family HD">
@@ -569,39 +584,6 @@
 			<File>Sky Movies Greats.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="12 Days of Xmas HD">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="12 Days of Xmas">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Frats &amp; Brats HD">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Frats &amp; Brats">
-					<Provider>Sky (NZ)</Provider>
-				</Item>>
-				<Item Name="SM Harry Potter HD">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Harry Potter">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Matt Damon HD">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Matt Damon">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Spy HD">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-				<Item Name="SM Spy">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-			<File>Sky Movies Pop-Up.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="SM Premiere HD">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
@@ -609,12 +591,6 @@
 					<Provider>Sky (NZ)</Provider>
 				</Item>
 			<File>Sky Movies Premiere.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="SM Vintage">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-			<File>Sky Movies Vintage.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky News">
@@ -865,6 +841,12 @@
 			<File>TLC.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TV28">
+					<Provider>Freeview (NZ)</Provider>
+				</Item>
+			<File>TV28.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TVNZ 1 HD">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
@@ -957,12 +939,6 @@
 					<Provider>Freeview (NZ)</Provider>
 				</Item>
 			<File>Wairarapa TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ChineseTV">
-					<Provider>Freeview (NZ)</Provider>
-				</Item>
-			<File>WTV28.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
