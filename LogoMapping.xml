@@ -168,16 +168,16 @@
 			<File>Desire TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Discovery">
-					<Provider>Sky (NZ)</Provider>
-				</Item>
-			<File>Discovery Channel.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Discovery Turbo">
 					<Provider>Sky (NZ)</Provider>
 				</Item>
 			<File>Discovery Turbo.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Discovery">
+					<Provider>Sky (NZ)</Provider>
+				</Item>
+			<File>Discovery.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="E!">
@@ -408,12 +408,6 @@
 					<Provider>Freeview (NZ)</Provider>
 				</Item>
 			<File>NickMusic.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="PandaTV">
-					<Provider>Freeview (NZ)</Provider>
-				</Item>
-			<File>Panda TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Parliament">
@@ -894,12 +888,6 @@
 					<Provider>Freeview (NZ)</Provider>
 				</Item>
 			<File>TVNZ Duke Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TVSN Shopping">
-					<Provider>Freeview (NZ)</Provider>
-				</Item>
-			<File>TVSN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Universal TV HD">
